@@ -8,7 +8,7 @@ I am currently studying BSc Computing & IT (Software) to further my knowledge. I
 I am currently contributing towards other projects, mostly with Dragon Fruit Network. I will often contribute towards libraries that I am actively using. I occasionally have smaller projects of my own that I work on, however currently I am using the majority of that time for studying.
 
 <details>
-  <summary><strong> Previous Work ✨ </summary>
+  <summary><strong> Previous Work ✨ </strong></summary>
     <ul>
       <li>bBotLibrary - A .Net library for creating Discord bots in seconds using Discord.Net</li>
       <li>Lori's Angel - A Discord bot that was developed along side bBotLibrary</li>
