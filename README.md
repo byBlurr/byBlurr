@@ -1,19 +1,89 @@
-### About Me
-I am a 25 year old software engineer who has a strong interest in learning how and why things work the way they do. I would often disassemble and reassemble real life objects to learn more about them and answer any questions I have. I come from a motorsport background, I used to race motorbikes competively but now I ride them for leisure and work on them either for fun or because my Triumph is being unreliable again.
+# Hey, I'm byBlurr 👋
 
-I first started learning to program from the age of 12, learning bits and pieces mostly from youtube and other programmers. For many years I learnt java on and off but eventually expanded my knowledge to other languages such as C# and a little C++. At this point I started to work on small projects and spend more time on learning. I then dabbled in other languages such as Python, Kotlin and Scala. From 2014 to 2017 I studied motorcycle mechanics at college as well as programming in my spare time. Since early 2018, I have put many hours into writing GTA V and Red Dead Redemption 2 mods with mostly lua, C# and JSON. Doing so I learnt a lot about the process of developing, testing and releasing my work to a userbase of thousands, working with the userbase for feedback, ideas and testing. In 2019 I started university, studying BSc Computing & IT, along the software engineering path. Besides the history and general use of computers, I have studied modules that include robotics & AI, Object-Orientated programming and web development with JS, PHP, HTML and CSS. My most recent experience outside university has been C# and MySQL, where I have been furthering my knowledge and putting my university study into practice.
+**Full-Stack Developer | C# .NET Specialist**
 
-<!--
-**byBlurr/byBlurr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a developer who loves building tools that solve real problems—whether that's game engines, API wrappers, Discord bots, or production infrastructure monitoring systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 What I Do
+
+I build across the full stack, with a focus on **robust, reusable code**:
+
+- **Backend/API Development** — Designing clean API wrappers and integrations (Rainbow Six Siege, Escape from Tarkov, Steam)
+- **Game Development** — Top-down 2D gameplay with strategic mechanics and environmental design using Godot
+- **Real-time Systems** — Event-driven Discord bots with complex state management
+- **Infrastructure & Tooling** — Production-grade monitoring, configuration management, scheduled tasks
+- **Library/Framework Development** — Published NuGet packages used by developers worldwide
+
+---
+
+## 🚀 Featured Projects
+
+### Libraries & Frameworks
+| Project | Description | Status |
+|---------|-------------|--------|
+| **[bBotLibrary](https://github.com/byBlurr/bBotLibrary)** | Discord.Net-based bot framework for rapid bot development | [![NuGet](https://img.shields.io/nuget/v/Discord.Net.Bot)](https://www.nuget.org/packages/Discord.Net.Bot/) |
+| **[Dragon6 API](https://github.com/byBlurr/dragon6-api)** | Rainbow Six Siege stats API wrapper for .NET | [![NuGet](https://img.shields.io/nuget/v/Dragon6.API)](https://www.nuget.org/packages/Dragon6.API/) |
+| **[Tarkov.Net](https://github.com/byBlurr/Tarkov.Net)** | Escape from Tarkov API wrapper | Production |
+
+### Applications
+| Project | Description |
+|---------|-------------|
+| **[PULSE](https://github.com/byBlurr/ServerPinger)** | Server uptime monitoring with Microsoft Teams alerts. Parallel health checks optimized for scheduled tasks. Production-grade infrastructure monitoring. |
+| **[Project-X](https://github.com/byBlurr/Project-X)** | Top-down WWII-era zombie survival game with strategic defense mechanics |
+| **[Lori's Angel](https://github.com/byBlurr/LorisAngel)** | Feature-rich Discord bot (games, connect-4, music integration) |
+| **[iRacing Settings Manager](https://github.com/byBlurr/iRacingSettingsManager)** | Swap racing sim configurations with ease |
+
+### Utilities
+| Project | Description |
+|---------|-------------|
+| **[JsonObjectCreator](https://github.com/byBlurr/JsonObjectCreator)** | Auto-generate C# classes from JSON |
+| **[SpotifyShuffle](https://github.com/byBlurr/SpotifyShuffle)** | Better playlist shuffling for Spotify |
+
+---
+
+## 💡 Technical Strengths
+
+- **Languages**: C#, C++, TypeScript
+- **Frameworks**: .NET 6+, Discord.Net, Godot, OpenGL
+- **Architecture**: Clean architecture, separation of concerns, reusable abstractions
+- **Patterns**: API wrapper design, event-driven systems, configuration management
+- **DevOps**: GitHub Actions, NuGet publishing, scheduled task deployment
+- **Tools**: Visual Studio, Git, Docker (occasional)
+
+---
+
+## 📊 GitHub Stats
+
+- **15+ public repositories** spanning games, APIs, bots, and tools
+- **Published to NuGet** with active downloads
+- **Active maintainer** — regularly updating projects to latest frameworks
+
+---
+
+## 🔄 My Development Philosophy
+
+✅ **Ship, don't overthink** — I release working code and iterate  
+✅ **Build to solve problems** — Every project solves a specific pain point  
+✅ **Reuse and abstract** — Code gets packaged as libraries for others to use  
+✅ **Production-ready** — Error handling, logging, and proper configuration matter  
+✅ **Keep learning** — Staying current with latest frameworks and patterns  
+
+---
+
+## 🎮 Fun Fact
+
+I'm passionate about gaming and sim racing, which explains why several of my projects revolve around gaming APIs and tools (Rainbow Six Siege, Escape from Tarkov, iRacing). Building tools for communities I care about is what drives me.
+
+---
+
+## 📫 Connect
+
+- **GitHub**: You're already here! 👀
+- **LinkedIn**: [daniel-dumont-54a2543a6](https://www.linkedin.com/in/daniel-dumont-54a2543a6)
+- **NuGet**: [byBlurr packages](https://www.nuget.org/profiles/byBlurr)
+
+---
+
+*Building production-grade tools and libraries, one project at a time.*
