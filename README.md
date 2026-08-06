@@ -1,4 +1,4 @@
-# Hey, I'm byBlurr 👋
+# Hey, I'm Daniel Dumont 👋
 
 **Full-Stack Developer | C# .NET Specialist**
 
@@ -46,7 +46,7 @@ I build across the full stack, with a focus on **robust, reusable code**:
 ## 💡 Technical Strengths
 
 - **Languages**: C#, C++, TypeScript
-- **Frameworks**: .NET 6+, Discord.Net, Godot, OpenGL
+- **Frameworks**: .NET, Discord.Net, Godot, OpenGL
 - **Architecture**: Clean architecture, separation of concerns, reusable abstractions
 - **Patterns**: API wrapper design, event-driven systems, configuration management
 - **DevOps**: GitHub Actions, NuGet publishing, scheduled task deployment
@@ -56,8 +56,8 @@ I build across the full stack, with a focus on **robust, reusable code**:
 
 ## 📊 GitHub Stats
 
-- **15+ public repositories** spanning games, APIs, bots, and tools
-- **Published to NuGet** with active downloads
+- **20+ public repositories** spanning games, APIs, bots, and tools
+- **Published to NuGet** with active downloads worldwide
 - **Active maintainer** — regularly updating projects to latest frameworks
 
 ---
@@ -85,5 +85,3 @@ I'm passionate about gaming and sim racing, which explains why several of my pro
 - **NuGet**: [byBlurr packages](https://www.nuget.org/profiles/byBlurr)
 
 ---
-
-*Building production-grade tools and libraries, one project at a time.*
