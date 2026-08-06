@@ -56,7 +56,7 @@ I build across the full stack, with a focus on **robust, reusable code**:
 
 ## 📊 GitHub Stats
 
-- **20+ public repositories** spanning games, APIs, bots, and tools
+- **20+ public repositories & 30+ private repositories** spanning games, APIs, bots, and tools
 - **Published to NuGet** with active downloads worldwide
 - **Active maintainer** — regularly updating projects to latest frameworks
 
