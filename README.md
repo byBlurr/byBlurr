@@ -2,7 +2,7 @@
 
 **Full-Stack Developer | C# .NET Specialist**
 
-Welcome to my GitHub! I'm a developer who loves building tools that solve real problems—whether that's game engines, API wrappers, Discord bots, or production infrastructure monitoring systems.
+Welcome to my GitHub! I'm a developer who loves building tools that solve real problems—whether that's game engines, API wrappers, or production infrastructure monitoring systems.
 
 ---
 
@@ -30,10 +30,8 @@ I build across the full stack, with a focus on **robust, reusable code**:
 ### Applications
 | Project | Description |
 |---------|-------------|
-| **[PULSE](https://github.com/byBlurr/ServerPinger)** | Server uptime monitoring with Microsoft Teams alerts. Parallel health checks optimized for scheduled tasks. Production-grade infrastructure monitoring. |
-| **[Project-X](https://github.com/byBlurr/Project-X)** | Top-down WWII-era zombie survival game with strategic defense mechanics |
-| **[Lori's Angel](https://github.com/byBlurr/LorisAngel)** | Feature-rich Discord bot (games, connect-4, music integration) |
-| **[iRacing Settings Manager](https://github.com/byBlurr/iRacingSettingsManager)** | Swap racing sim configurations with ease |
+| **[DMNT Dashboard](https://github.com/byBlurr/DmntDashboard)** | Clean Dashboard/Hub for easy navigation and monitoring |
+| **[FinTrack](https://github.com/byBlurr/YearlyFinanceDashboard)** | Finance tracker designed specifically for yearly subscriptions and bills | **[Project-X](https://github.com/byBlurr/Project-X)** | Top-down WWII-era zombie survival game with strategic defense mechanics |
 
 ### Utilities
 | Project | Description |
