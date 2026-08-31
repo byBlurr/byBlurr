@@ -20,18 +20,18 @@ I build across the full stack, with a focus on **robust, reusable code**:
 
 ## 🚀 Featured Projects
 
+### Applications
+| Project | Description |
+|---------|-------------|
+| **[DMNT Dashboard](https://github.com/byBlurr/DmntDashboard)** | Clean Dashboard/Hub for easy navigation and monitoring |
+| **[FinTrack](https://github.com/byBlurr/YearlyFinanceDashboard)** | Finance tracker designed specifically for yearly subscriptions and bills | |**[Project-X](https://github.com/byBlurr/Project-X)** | Top-down WWII-era zombie survival game with strategic defense mechanics |
+
 ### Libraries & Frameworks
 | Project | Description | Status |
 |---------|-------------|--------|
 | **[bBotLibrary](https://github.com/byBlurr/bBotLibrary)** | Discord.Net-based bot framework for rapid bot development | [![NuGet](https://img.shields.io/nuget/v/Discord.Net.Bot)](https://www.nuget.org/packages/Discord.Net.Bot/) |
 | **[Dragon6 API](https://github.com/byBlurr/dragon6-api)** | Rainbow Six Siege stats API wrapper for .NET | [![NuGet](https://img.shields.io/nuget/v/Dragon6.API)](https://www.nuget.org/packages/Dragon6.API/) |
 | **[Tarkov.Net](https://github.com/byBlurr/Tarkov.Net)** | Escape from Tarkov API wrapper | Production |
-
-### Applications
-| Project | Description |
-|---------|-------------|
-| **[DMNT Dashboard](https://github.com/byBlurr/DmntDashboard)** | Clean Dashboard/Hub for easy navigation and monitoring |
-| **[FinTrack](https://github.com/byBlurr/YearlyFinanceDashboard)** | Finance tracker designed specifically for yearly subscriptions and bills | **[Project-X](https://github.com/byBlurr/Project-X)** | Top-down WWII-era zombie survival game with strategic defense mechanics |
 
 ### Utilities
 | Project | Description |
