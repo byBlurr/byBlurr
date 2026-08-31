@@ -24,7 +24,8 @@ I build across the full stack, with a focus on **robust, reusable code**:
 | Project | Description |
 |---------|-------------|
 | **[DMNT Dashboard](https://github.com/byBlurr/DmntDashboard)** | Clean Dashboard/Hub for easy navigation and monitoring |
-| **[FinTrack](https://github.com/byBlurr/YearlyFinanceDashboard)** | Finance tracker designed specifically for yearly subscriptions and bills | |**[Project-X](https://github.com/byBlurr/Project-X)** | Top-down WWII-era zombie survival game with strategic defense mechanics |
+| **[FinTrack](https://github.com/byBlurr/YearlyFinanceDashboard)** | Finance tracker designed specifically for yearly subscriptions and bills |
+| **[Project-X](https://github.com/byBlurr/Project-X)** | Top-down WWII-era zombie survival game with strategic defense mechanics |
 
 ### Libraries & Frameworks
 | Project | Description | Status |
